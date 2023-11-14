@@ -2,9 +2,5 @@
 
 Currently interested in - Python, Competitive Programming, Web Development
 
-Positions - President @ Hacksphere, Marketing @ Innovire
-
-Working on - Competitive Programming Journey (IB MYP Personal Project)
-
 Hobbies - Badminton 🏸, Weight-Lifting 🏋️, Biking 🚴, and Video Games 🎮
 
