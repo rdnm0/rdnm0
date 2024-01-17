@@ -2,10 +2,8 @@
 
 Currently interested in - Competitive Programming and Web Development!
 
-![Alt Text](https://media4.giphy.com/media/l3NaEd2QkUm7eu4lNo/giphy.gif)
 
-
-
+![giphy](https://github.com/rdnm0/rdnm0/assets/114675334/7b77c972-8392-4377-a0af-7b1b9b33bd8f)
 
 
 
