@@ -3,7 +3,8 @@
 Currently interested in - Competitive Programming and Web Development
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdnm0)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
