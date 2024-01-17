@@ -2,7 +2,9 @@
 
 Currently interested in - Competitive Programming and Web Development!
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://tenor.com/brxVK.gif)
+
+)
 
 
 
